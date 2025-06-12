@@ -1,0 +1,19 @@
+{
+  "name": "Flash Token List",
+  "timestamp": "2025-06-12T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x66aDd15f0b0Cbe467eB75952230e6f90c731Fd1b",
+      "name": "Flash Token",
+      "symbol": "FLASH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sebbafire98/flash-token-list/main/logo.png"
+    }
+  ]
+}
